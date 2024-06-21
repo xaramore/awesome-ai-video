@@ -2,6 +2,11 @@
 
 > A curated list of awesome AI tools for video editing, generation, enhancement, and more.
 
+### related links
+
+[There's An AI](https://theresanai.com) - [Best Video Generation AI Tools](https://theresanai.com/category/video)  - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+
+
 ## Contents
 
 - [Video Generation](#video-generation)
